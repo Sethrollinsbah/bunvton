@@ -1,0 +1,9 @@
+[submodule "vesti-extension-demo"]
+	path = vesti-extension-demo
+	url = https://github.com/Sethrollinsbah/vesti-extension-demo.git
+[submodule "vesti-extension"]
+	path = vesti-extension
+	url = https://github.com/Sethrollinsbah/vesti-extension.git
+[submodule "vesti-scripts"]
+	path = vesti-scripts
+	url = https://github.com/Sethrollinsbah/vesti-scripts.git
