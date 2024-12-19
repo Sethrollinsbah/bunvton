@@ -9,3 +9,5 @@
 	url = https://github.com/Sethrollinsbah/vesti-scripts.git
 [submodule "https://github.com/sethrollinsbah/vesti-model.git"]
 	url = vesti-model/
+[submodule "git@github.com/sethrollinsbah/vesti-model.git"]
+	url = vesti-model/
