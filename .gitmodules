@@ -1,0 +1,12 @@
+[submodule "vesti-extension-demo"]
+	path = vesti-extension-demo
+	url = git@github.com/Sethrollinsbah/vesti-extension-demo.git
+[submodule "vesti-extension"]
+	path = vesti-extension
+	url = git@github.com/Sethrollinsbah/vesti-extension.git
+[submodule "vesti-scripts"]
+	path = vesti-scripts
+	url = git@github.com/Sethrollinsbah/vesti-scripts.git
+[submodule "vesti-model"]
+    	path = vesti-model
+    	url = git@github.com:Sethrollinsbah/vesti-model.git

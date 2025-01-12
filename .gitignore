@@ -1,0 +1,46 @@
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/output_directory/
+**/resource/demo/output/
+**/resource/demo/example/.DS_Store
+output_directory/
+resource/demo/output/
+resource/demo/example/.DS_Store
+*.log
+*.tmp
+*.bak
+*.zip
+*.tar
+*.gz
+*.bz2
+*.7z
+*.rar
+venv/
+env/
+.virtualenv/
+.vscode/
+.idea/
+*.swp
+*.swo
+node_modules/
+.DS_Store
+Thumbs.db
+model/
+Models/
+Datasets/
+densepose_
+zalando-hd-resized.zip*
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+test/
+playground.py
+cf-runner.sh
+cf-run.sh
+README.md  # (Optional: keep if you want README in version control)
+LICENSE    # (Optional: keep if needed)
